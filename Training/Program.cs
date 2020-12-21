@@ -6,23 +6,10 @@ namespace Training
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите число:");
-            int a = int.Parse(Console.ReadLine());
-
-            switch (a)
+            do
             {
-                case 1:
-                    Console.WriteLine("\nВы ввели число 1");
-                    break;
-
-                case 2:
-                    Console.WriteLine("\nВы ввели число 2");
-                    break;
-
-                default:
-                    Console.WriteLine("\nВы ввели неверные данные");
-                    break;
-            }
+                Console.WriteLine("Действие");
+            } while (false);
         }
     }
 }

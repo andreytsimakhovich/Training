@@ -1,0 +1,13 @@
+C:\data\Training\Counter\bin\Debug\netcoreapp3.1\Counter.exe
+C:\data\Training\Counter\bin\Debug\netcoreapp3.1\Counter.deps.json
+C:\data\Training\Counter\bin\Debug\netcoreapp3.1\Counter.runtimeconfig.json
+C:\data\Training\Counter\bin\Debug\netcoreapp3.1\Counter.runtimeconfig.dev.json
+C:\data\Training\Counter\bin\Debug\netcoreapp3.1\Counter.dll
+C:\data\Training\Counter\bin\Debug\netcoreapp3.1\Counter.pdb
+C:\data\Training\Counter\obj\Debug\netcoreapp3.1\Counter.csprojAssemblyReference.cache
+C:\data\Training\Counter\obj\Debug\netcoreapp3.1\Counter.AssemblyInfoInputs.cache
+C:\data\Training\Counter\obj\Debug\netcoreapp3.1\Counter.AssemblyInfo.cs
+C:\data\Training\Counter\obj\Debug\netcoreapp3.1\Counter.csproj.CoreCompileInputs.cache
+C:\data\Training\Counter\obj\Debug\netcoreapp3.1\Counter.dll
+C:\data\Training\Counter\obj\Debug\netcoreapp3.1\Counter.pdb
+C:\data\Training\Counter\obj\Debug\netcoreapp3.1\Counter.genruntimeconfig.cache
