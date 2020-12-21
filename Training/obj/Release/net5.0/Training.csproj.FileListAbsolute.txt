@@ -1,0 +1,16 @@
+C:\data\Training\Training\bin\Release\net5.0\Training.exe
+C:\data\Training\Training\bin\Release\net5.0\Training.deps.json
+C:\data\Training\Training\bin\Release\net5.0\Training.runtimeconfig.json
+C:\data\Training\Training\bin\Release\net5.0\Training.runtimeconfig.dev.json
+C:\data\Training\Training\bin\Release\net5.0\Training.dll
+C:\data\Training\Training\bin\Release\net5.0\ref\Training.dll
+C:\data\Training\Training\bin\Release\net5.0\Training.pdb
+C:\data\Training\Training\obj\Release\net5.0\Training.csprojAssemblyReference.cache
+C:\data\Training\Training\obj\Release\net5.0\Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\Training\Training\obj\Release\net5.0\Training.AssemblyInfoInputs.cache
+C:\data\Training\Training\obj\Release\net5.0\Training.AssemblyInfo.cs
+C:\data\Training\Training\obj\Release\net5.0\Training.csproj.CoreCompileInputs.cache
+C:\data\Training\Training\obj\Release\net5.0\Training.dll
+C:\data\Training\Training\obj\Release\net5.0\ref\Training.dll
+C:\data\Training\Training\obj\Release\net5.0\Training.pdb
+C:\data\Training\Training\obj\Release\net5.0\Training.genruntimeconfig.cache
