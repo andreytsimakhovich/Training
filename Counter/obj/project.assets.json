@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Ternary operation/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/Ternary operation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ternary operation.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Ternary operation/1.0.0": {
+      "type": "project",
+      "path": "../Training/Ternary operation.csproj",
+      "msbuildProject": "../Training/Ternary operation.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Ternary operation >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\tsimakhovich\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\data\\Training\\Counter\\Counter.csproj",
+      "projectUniqueName": "D:\\C#\\Training\\Counter\\Counter.csproj",
       "projectName": "Counter",
-      "projectPath": "C:\\data\\Training\\Counter\\Counter.csproj",
+      "projectPath": "D:\\C#\\Training\\Counter\\Counter.csproj",
       "packagesPath": "C:\\Users\\tsimakhovich\\.nuget\\packages\\",
-      "outputPath": "C:\\data\\Training\\Counter\\obj\\",
+      "outputPath": "D:\\C#\\Training\\Counter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tsimakhovich\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\C#\\Training\\Training\\Ternary operation.csproj": {
+              "projectPath": "D:\\C#\\Training\\Training\\Ternary operation.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -55,13 +78,19 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект Ternary operation несовместим с netcoreapp3.1 (.NETCoreApp,Version=v3.1). Проект Ternary operation поддерживает: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Ternary operation",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

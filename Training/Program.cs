@@ -6,10 +6,14 @@ namespace Training
     {
         static void Main(string[] args)
         {
-            do
-            {
-                Console.WriteLine("Действие");
-            } while (false);
+            int a = 3;
+            int b = 5;
+            Console.WriteLine("Выбери + или - :");
+            string selection = Console.ReadLine();
+
+            int c = selection == "+" ? (a + b) : (a - b);
+            Console.WriteLine(c);
+
         }
     }
 }

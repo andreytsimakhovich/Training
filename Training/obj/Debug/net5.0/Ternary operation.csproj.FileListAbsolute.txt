@@ -1,0 +1,16 @@
+D:\C#\Training\Training\bin\Debug\net5.0\Ternary operation.exe
+D:\C#\Training\Training\bin\Debug\net5.0\Ternary operation.deps.json
+D:\C#\Training\Training\bin\Debug\net5.0\Ternary operation.runtimeconfig.json
+D:\C#\Training\Training\bin\Debug\net5.0\Ternary operation.runtimeconfig.dev.json
+D:\C#\Training\Training\bin\Debug\net5.0\Ternary operation.dll
+D:\C#\Training\Training\bin\Debug\net5.0\ref\Ternary operation.dll
+D:\C#\Training\Training\bin\Debug\net5.0\Ternary operation.pdb
+D:\C#\Training\Training\obj\Debug\net5.0\Ternary operation.csprojAssemblyReference.cache
+D:\C#\Training\Training\obj\Debug\net5.0\Ternary operation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Training\Training\obj\Debug\net5.0\Ternary operation.AssemblyInfoInputs.cache
+D:\C#\Training\Training\obj\Debug\net5.0\Ternary operation.AssemblyInfo.cs
+D:\C#\Training\Training\obj\Debug\net5.0\Ternary operation.csproj.CoreCompileInputs.cache
+D:\C#\Training\Training\obj\Debug\net5.0\Ternary operation.dll
+D:\C#\Training\Training\obj\Debug\net5.0\ref\Ternary operation.dll
+D:\C#\Training\Training\obj\Debug\net5.0\Ternary operation.pdb
+D:\C#\Training\Training\obj\Debug\net5.0\Ternary operation.genruntimeconfig.cache

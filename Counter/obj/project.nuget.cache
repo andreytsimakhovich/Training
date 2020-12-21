@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "U0xIbupeeDHq7jHC3zbD7rVHdkE8sS1d2EkOO7O75JOboyHuJGoBmQOA3nJKWvBxFooogOMjR0SB5Ny+8R5TEg==",
-  "success": true,
-  "projectFilePath": "C:\\data\\Training\\Counter\\Counter.csproj",
+  "dgSpecHash": "S228p2PIRgPT6+XVKj0OM70fK+XUKPR5FT2HHJ4kZ1t8C9PkVsAykCL65WWcWh0IKld86MUajcmGsLU4XWg2Fw==",
+  "success": false,
+  "projectFilePath": "D:\\C#\\Training\\Counter\\Counter.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект Ternary operation несовместим с netcoreapp3.1 (.NETCoreApp,Version=v3.1). Проект Ternary operation поддерживает: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Ternary operation",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

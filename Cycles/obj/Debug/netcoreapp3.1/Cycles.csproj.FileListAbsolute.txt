@@ -1,0 +1,13 @@
+D:\C#\Training\Cycles\bin\Debug\netcoreapp3.1\Cycles.exe
+D:\C#\Training\Cycles\bin\Debug\netcoreapp3.1\Cycles.deps.json
+D:\C#\Training\Cycles\bin\Debug\netcoreapp3.1\Cycles.runtimeconfig.json
+D:\C#\Training\Cycles\bin\Debug\netcoreapp3.1\Cycles.runtimeconfig.dev.json
+D:\C#\Training\Cycles\bin\Debug\netcoreapp3.1\Cycles.dll
+D:\C#\Training\Cycles\bin\Debug\netcoreapp3.1\Cycles.pdb
+D:\C#\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.csprojAssemblyReference.cache
+D:\C#\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.AssemblyInfoInputs.cache
+D:\C#\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.AssemblyInfo.cs
+D:\C#\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.csproj.CoreCompileInputs.cache
+D:\C#\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.dll
+D:\C#\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.pdb
+D:\C#\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.genruntimeconfig.cache

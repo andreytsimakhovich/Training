@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\data\\Training\\Training\\Training.csproj",
-      "projectName": "Training",
-      "projectPath": "C:\\data\\Training\\Training\\Training.csproj",
+      "projectUniqueName": "D:\\C#\\Training\\Training\\Ternary operation.csproj",
+      "projectName": "Ternary operation",
+      "projectPath": "D:\\C#\\Training\\Training\\Ternary operation.csproj",
       "packagesPath": "C:\\Users\\tsimakhovich\\.nuget\\packages\\",
-      "outputPath": "C:\\data\\Training\\Training\\obj\\",
+      "outputPath": "D:\\C#\\Training\\Training\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tsimakhovich\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
