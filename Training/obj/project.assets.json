@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\data\\Training\\Training\\Training.csproj",
-      "projectName": "Training",
-      "projectPath": "C:\\data\\Training\\Training\\Training.csproj",
+      "projectUniqueName": "C:\\data\\Training\\Training\\Ternary operation.csproj",
+      "projectName": "Ternary operation",
+      "projectPath": "C:\\data\\Training\\Training\\Ternary operation.csproj",
       "packagesPath": "C:\\Users\\tsimakhovich\\.nuget\\packages\\",
       "outputPath": "C:\\data\\Training\\Training\\obj\\",
       "projectStyle": "PackageReference",

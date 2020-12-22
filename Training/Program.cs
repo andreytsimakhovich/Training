@@ -6,6 +6,7 @@ namespace Training
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             //Console.Write("Введите высоту треугольника: ");
             //int height = int.Parse(Console.ReadLine());
 
@@ -30,6 +31,15 @@ namespace Training
                 }
                 Console.WriteLine();
             }
+=======
+            int a = 3;
+            int b = 5;
+            Console.WriteLine("Выбери + или - :");
+            string selection = Console.ReadLine();
+
+            int c = selection == "+" ? (a + b) : (a - b);
+            Console.WriteLine(c);
+>>>>>>> 0f323a782a0382e4a07a03074afa436488a51245
 
         }
     }
