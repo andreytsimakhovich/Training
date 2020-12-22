@@ -11,3 +11,16 @@ D:\C#\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.csproj.CoreCompileInputs.ca
 D:\C#\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.dll
 D:\C#\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.pdb
 D:\C#\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.genruntimeconfig.cache
+C:\data\Training\Cycles\bin\Debug\netcoreapp3.1\Cycles.exe
+C:\data\Training\Cycles\bin\Debug\netcoreapp3.1\Cycles.deps.json
+C:\data\Training\Cycles\bin\Debug\netcoreapp3.1\Cycles.runtimeconfig.json
+C:\data\Training\Cycles\bin\Debug\netcoreapp3.1\Cycles.runtimeconfig.dev.json
+C:\data\Training\Cycles\bin\Debug\netcoreapp3.1\Cycles.dll
+C:\data\Training\Cycles\bin\Debug\netcoreapp3.1\Cycles.pdb
+C:\data\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.csprojAssemblyReference.cache
+C:\data\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.AssemblyInfoInputs.cache
+C:\data\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.AssemblyInfo.cs
+C:\data\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.csproj.CoreCompileInputs.cache
+C:\data\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.dll
+C:\data\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.pdb
+C:\data\Training\Cycles\obj\Debug\netcoreapp3.1\Cycles.genruntimeconfig.cache

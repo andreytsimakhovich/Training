@@ -14,3 +14,11 @@ D:\C#\Training\Training\obj\Debug\net5.0\Ternary operation.dll
 D:\C#\Training\Training\obj\Debug\net5.0\ref\Ternary operation.dll
 D:\C#\Training\Training\obj\Debug\net5.0\Ternary operation.pdb
 D:\C#\Training\Training\obj\Debug\net5.0\Ternary operation.genruntimeconfig.cache
+C:\data\Training\Training\obj\Debug\net5.0\Ternary operation.csprojAssemblyReference.cache
+C:\data\Training\Training\obj\Debug\net5.0\Ternary operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\Training\Training\obj\Debug\net5.0\Ternary operation.AssemblyInfoInputs.cache
+C:\data\Training\Training\obj\Debug\net5.0\Ternary operation.AssemblyInfo.cs
+C:\data\Training\Training\obj\Debug\net5.0\Ternary operation.csproj.CoreCompileInputs.cache
+C:\data\Training\Training\obj\Debug\net5.0\Ternary operation.dll
+C:\data\Training\Training\obj\Debug\net5.0\ref\Ternary operation.dll
+C:\data\Training\Training\obj\Debug\net5.0\Ternary operation.pdb
