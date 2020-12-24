@@ -1,5 +1,12 @@
 ﻿using System;
 
+// Добавление пространств имен
+
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace Cycles
 {
     class Program
@@ -88,20 +95,38 @@ namespace Cycles
 
             //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Найти наименьшее число в массиве<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-            int[] myArray = { 2, 4, 6, 1 };
-            int minValue = myArray[0];
+            //int[] myArray = { 2, 4, 6, 1 };
+            //int minValue = myArray[0];
 
-            for (int i = 1; i < myArray.Length; i++)       // i = 1 так как мы обращаемся к [0] элементу массива
-            {
-                Console.WriteLine(myArray[i]);
+            //for (int i = 1; i < myArray.Length; i++)       // i = 1 так как мы обращаемся к [0] элементу массива
+            //{
+            //    Console.WriteLine(myArray[i]);
 
-                if (minValue > myArray[i])
-                {
-                    minValue = myArray[i];
-                }
-            }
-            Console.WriteLine(minValue);
-            Console.ReadLine();
+            //    if (minValue > myArray[i])
+            //    {
+            //        minValue = myArray[i];
+            //    }
+            //}
+            //Console.WriteLine(minValue);
+            //Console.ReadLine();
+
+            //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Как рабоать с массивами в C# на самом деле<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+            int [] myArray = {111,10,4,99,49,64,77,4,42,5};
+
+            // min max элемент массива
+
+            //int result = myArray.Max();
+            //int result = myArray.Min(); 
+            //Console.WriteLine(result);
+
+            //Console.WriteLine(myArray.Where(i => i % 2 == 0).Sum());     // сумма всех четных элементов массивов
+
+            int [] result = Array.FindAll(myArray, i => i < 70);
+
+            Console.WriteLine(result);
+
+            Console.ReadKey();
 
         }
     }
