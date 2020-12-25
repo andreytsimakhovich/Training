@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Training\\Training\\Ternary operation.csproj": {}
+    "D:\\C#\\Training\\two-dimensional_arrays\\Two-dimensional_arrays.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Training\\Training\\Ternary operation.csproj": {
+    "D:\\C#\\Training\\two-dimensional_arrays\\Two-dimensional_arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Training\\Training\\Ternary operation.csproj",
-        "projectName": "Ternary operation",
-        "projectPath": "D:\\C#\\Training\\Training\\Ternary operation.csproj",
+        "projectUniqueName": "D:\\C#\\Training\\two-dimensional_arrays\\Two-dimensional_arrays.csproj",
+        "projectName": "Two-dimensional_arrays",
+        "projectPath": "D:\\C#\\Training\\two-dimensional_arrays\\Two-dimensional_arrays.csproj",
         "packagesPath": "C:\\Users\\tsimakhovich\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Training\\Training\\obj\\",
+        "outputPath": "D:\\C#\\Training\\two-dimensional_arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tsimakhovich\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",

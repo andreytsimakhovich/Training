@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Training\\Training\\Ternary operation.csproj": {}
+    "D:\\C#\\Training\\Training\\Ternary_operation.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Training\\Training\\Ternary operation.csproj": {
+    "D:\\C#\\Training\\Training\\Ternary_operation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Training\\Training\\Ternary operation.csproj",
-        "projectName": "Ternary operation",
-        "projectPath": "D:\\C#\\Training\\Training\\Ternary operation.csproj",
+        "projectUniqueName": "D:\\C#\\Training\\Training\\Ternary_operation.csproj",
+        "projectName": "Ternary_operation",
+        "projectPath": "D:\\C#\\Training\\Training\\Ternary_operation.csproj",
         "packagesPath": "C:\\Users\\tsimakhovich\\.nuget\\packages\\",
         "outputPath": "D:\\C#\\Training\\Training\\obj\\",
         "projectStyle": "PackageReference",

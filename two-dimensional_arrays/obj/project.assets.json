@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Training\\Cycles\\Cycles.csproj",
-      "projectName": "Cycles",
-      "projectPath": "D:\\C#\\Training\\Cycles\\Cycles.csproj",
+      "projectUniqueName": "D:\\C#\\Training\\two-dimensional_arrays\\two-dimensional_arrays.csproj",
+      "projectName": "two-dimensional_arrays",
+      "projectPath": "D:\\C#\\Training\\two-dimensional_arrays\\two-dimensional_arrays.csproj",
       "packagesPath": "C:\\Users\\tsimakhovich\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Training\\Cycles\\obj\\",
+      "outputPath": "D:\\C#\\Training\\two-dimensional_arrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tsimakhovich\\AppData\\Roaming\\NuGet\\NuGet.Config",
