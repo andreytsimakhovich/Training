@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Training\\Cycles\\Cycles.csproj",
-      "projectName": "Cycles",
-      "projectPath": "D:\\C#\\Training\\Cycles\\Cycles.csproj",
+      "projectUniqueName": "D:\\C#\\Training\\Cycles\\Arrays.csproj",
+      "projectName": "Arrays",
+      "projectPath": "D:\\C#\\Training\\Cycles\\Arrays.csproj",
       "packagesPath": "C:\\Users\\tsimakhovich\\.nuget\\packages\\",
       "outputPath": "D:\\C#\\Training\\Cycles\\obj\\",
       "projectStyle": "PackageReference",

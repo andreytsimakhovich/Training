@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "two-dimensional_arrays/1.0.0": {
+      "Two-dimensional_arrays/1.0.0": {
         "runtime": {
-          "two-dimensional_arrays.dll": {}
+          "Two-dimensional_arrays.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "two-dimensional_arrays/1.0.0": {
+    "Two-dimensional_arrays/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

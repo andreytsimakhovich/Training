@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ternary_operation", "Traini
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Counter", "Counter\Counter.csproj", "{8E6D6160-11F3-4D73-BAD6-BA1883C79008}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cycles", "Cycles\Cycles.csproj", "{6665D4AA-73F2-47A8-B351-1165B8AC5C43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Cycles\Arrays.csproj", "{6665D4AA-73F2-47A8-B351-1165B8AC5C43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two-dimensional_arrays", "two-dimensional_arrays\Two-dimensional_arrays.csproj", "{468E3E9A-5CE4-4286-AF37-AC0D99E595CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two-dimensional_arrays", "two-dimensional_arrays\Two-dimensional_arrays.csproj", "{468E3E9A-5CE4-4286-AF37-AC0D99E595CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
