@@ -1,0 +1,13 @@
+C:\data\Training\Method_hw2\bin\Debug\netcoreapp3.1\Method_hw2.exe
+C:\data\Training\Method_hw2\bin\Debug\netcoreapp3.1\Method_hw2.deps.json
+C:\data\Training\Method_hw2\bin\Debug\netcoreapp3.1\Method_hw2.runtimeconfig.json
+C:\data\Training\Method_hw2\bin\Debug\netcoreapp3.1\Method_hw2.runtimeconfig.dev.json
+C:\data\Training\Method_hw2\bin\Debug\netcoreapp3.1\Method_hw2.dll
+C:\data\Training\Method_hw2\bin\Debug\netcoreapp3.1\Method_hw2.pdb
+C:\data\Training\Method_hw2\obj\Debug\netcoreapp3.1\Method_hw2.AssemblyInfoInputs.cache
+C:\data\Training\Method_hw2\obj\Debug\netcoreapp3.1\Method_hw2.AssemblyInfo.cs
+C:\data\Training\Method_hw2\obj\Debug\netcoreapp3.1\Method_hw2.csproj.CoreCompileInputs.cache
+C:\data\Training\Method_hw2\obj\Debug\netcoreapp3.1\Method_hw2.dll
+C:\data\Training\Method_hw2\obj\Debug\netcoreapp3.1\Method_hw2.pdb
+C:\data\Training\Method_hw2\obj\Debug\netcoreapp3.1\Method_hw2.genruntimeconfig.cache
+C:\data\Training\Method_hw2\obj\Debug\netcoreapp3.1\Method_hw2.csprojAssemblyReference.cache
