@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Training\\Counter\\Counter.csproj": {}
+    "C:\\data\\Training\\Counter\\Counter.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Training\\Counter\\Counter.csproj": {
+    "C:\\data\\Training\\Counter\\Counter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Training\\Counter\\Counter.csproj",
+        "projectUniqueName": "C:\\data\\Training\\Counter\\Counter.csproj",
         "projectName": "Counter",
-        "projectPath": "D:\\C#\\Training\\Counter\\Counter.csproj",
+        "projectPath": "C:\\data\\Training\\Counter\\Counter.csproj",
         "packagesPath": "C:\\Users\\tsimakhovich\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Training\\Counter\\obj\\",
+        "outputPath": "C:\\data\\Training\\Counter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tsimakhovich\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\C#\\Training\\Training\\Ternary_operation.csproj": {
-                "projectPath": "D:\\C#\\Training\\Training\\Ternary_operation.csproj"
+              "C:\\data\\Training\\Training\\Ternary_operation.csproj": {
+                "projectPath": "C:\\data\\Training\\Training\\Ternary_operation.csproj"
               }
             }
           }
@@ -57,14 +57,14 @@
         }
       }
     },
-    "D:\\C#\\Training\\Training\\Ternary_operation.csproj": {
+    "C:\\data\\Training\\Training\\Ternary_operation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Training\\Training\\Ternary_operation.csproj",
+        "projectUniqueName": "C:\\data\\Training\\Training\\Ternary_operation.csproj",
         "projectName": "Ternary_operation",
-        "projectPath": "D:\\C#\\Training\\Training\\Ternary_operation.csproj",
+        "projectPath": "C:\\data\\Training\\Training\\Ternary_operation.csproj",
         "packagesPath": "C:\\Users\\tsimakhovich\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Training\\Training\\obj\\",
+        "outputPath": "C:\\data\\Training\\Training\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tsimakhovich\\AppData\\Roaming\\NuGet\\NuGet.Config",

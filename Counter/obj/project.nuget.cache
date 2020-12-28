@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ihvPLfUCJ6fakz0GoPvcR7IzRDxQOLV1dIckQdA4l83IQw1abYcfLU/UWhiTvX/iyW0+rMUyivaxtnpfC6JaOQ==",
+  "dgSpecHash": "toZMldumh+KZM1FXW6VACWkkjxmywi/kU4X5ijQroWZY7ePF9P+TgUfPAWG4cEfzSzrcDCl6HySyCOfABTarVw==",
   "success": false,
-  "projectFilePath": "D:\\C#\\Training\\Counter\\Counter.csproj",
+  "projectFilePath": "C:\\data\\Training\\Counter\\Counter.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {

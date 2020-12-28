@@ -1,0 +1,13 @@
+C:\data\Training\Three-dimensional_array\bin\Debug\netcoreapp3.1\Three-dimensional_array.exe
+C:\data\Training\Three-dimensional_array\bin\Debug\netcoreapp3.1\Three-dimensional_array.deps.json
+C:\data\Training\Three-dimensional_array\bin\Debug\netcoreapp3.1\Three-dimensional_array.runtimeconfig.json
+C:\data\Training\Three-dimensional_array\bin\Debug\netcoreapp3.1\Three-dimensional_array.runtimeconfig.dev.json
+C:\data\Training\Three-dimensional_array\bin\Debug\netcoreapp3.1\Three-dimensional_array.dll
+C:\data\Training\Three-dimensional_array\bin\Debug\netcoreapp3.1\Three-dimensional_array.pdb
+C:\data\Training\Three-dimensional_array\obj\Debug\netcoreapp3.1\Three-dimensional_array.csprojAssemblyReference.cache
+C:\data\Training\Three-dimensional_array\obj\Debug\netcoreapp3.1\Three-dimensional_array.AssemblyInfoInputs.cache
+C:\data\Training\Three-dimensional_array\obj\Debug\netcoreapp3.1\Three-dimensional_array.AssemblyInfo.cs
+C:\data\Training\Three-dimensional_array\obj\Debug\netcoreapp3.1\Three-dimensional_array.csproj.CoreCompileInputs.cache
+C:\data\Training\Three-dimensional_array\obj\Debug\netcoreapp3.1\Three-dimensional_array.dll
+C:\data\Training\Three-dimensional_array\obj\Debug\netcoreapp3.1\Three-dimensional_array.pdb
+C:\data\Training\Three-dimensional_array\obj\Debug\netcoreapp3.1\Three-dimensional_array.genruntimeconfig.cache

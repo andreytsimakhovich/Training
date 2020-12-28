@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Training\\Training\\Ternary_operation.csproj",
+      "projectUniqueName": "C:\\data\\Training\\Training\\Ternary_operation.csproj",
       "projectName": "Ternary_operation",
-      "projectPath": "D:\\C#\\Training\\Training\\Ternary_operation.csproj",
+      "projectPath": "C:\\data\\Training\\Training\\Ternary_operation.csproj",
       "packagesPath": "C:\\Users\\tsimakhovich\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Training\\Training\\obj\\",
+      "outputPath": "C:\\data\\Training\\Training\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tsimakhovich\\AppData\\Roaming\\NuGet\\NuGet.Config",

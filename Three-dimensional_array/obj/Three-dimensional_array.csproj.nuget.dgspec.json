@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\data\\Training\\Cycles\\Arrays.csproj": {}
+    "C:\\data\\Training\\Three-dimensional_array\\Three-dimensional_array.csproj": {}
   },
   "projects": {
-    "C:\\data\\Training\\Cycles\\Arrays.csproj": {
+    "C:\\data\\Training\\Three-dimensional_array\\Three-dimensional_array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\data\\Training\\Cycles\\Arrays.csproj",
-        "projectName": "Arrays",
-        "projectPath": "C:\\data\\Training\\Cycles\\Arrays.csproj",
+        "projectUniqueName": "C:\\data\\Training\\Three-dimensional_array\\Three-dimensional_array.csproj",
+        "projectName": "Three-dimensional_array",
+        "projectPath": "C:\\data\\Training\\Three-dimensional_array\\Three-dimensional_array.csproj",
         "packagesPath": "C:\\Users\\tsimakhovich\\.nuget\\packages\\",
-        "outputPath": "C:\\data\\Training\\Cycles\\obj\\",
+        "outputPath": "C:\\data\\Training\\Three-dimensional_array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tsimakhovich\\AppData\\Roaming\\NuGet\\NuGet.Config",
