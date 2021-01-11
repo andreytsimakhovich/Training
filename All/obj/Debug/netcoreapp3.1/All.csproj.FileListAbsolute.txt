@@ -1,0 +1,13 @@
+C:\data\Training\All\bin\Debug\netcoreapp3.1\All.exe
+C:\data\Training\All\bin\Debug\netcoreapp3.1\All.deps.json
+C:\data\Training\All\bin\Debug\netcoreapp3.1\All.runtimeconfig.json
+C:\data\Training\All\bin\Debug\netcoreapp3.1\All.runtimeconfig.dev.json
+C:\data\Training\All\bin\Debug\netcoreapp3.1\All.dll
+C:\data\Training\All\bin\Debug\netcoreapp3.1\All.pdb
+C:\data\Training\All\obj\Debug\netcoreapp3.1\All.AssemblyInfoInputs.cache
+C:\data\Training\All\obj\Debug\netcoreapp3.1\All.AssemblyInfo.cs
+C:\data\Training\All\obj\Debug\netcoreapp3.1\All.csproj.CoreCompileInputs.cache
+C:\data\Training\All\obj\Debug\netcoreapp3.1\All.dll
+C:\data\Training\All\obj\Debug\netcoreapp3.1\All.pdb
+C:\data\Training\All\obj\Debug\netcoreapp3.1\All.genruntimeconfig.cache
+C:\data\Training\All\obj\Debug\netcoreapp3.1\All.csprojAssemblyReference.cache

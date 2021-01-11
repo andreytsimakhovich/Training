@@ -1,0 +1,16 @@
+C:\data\Training\Training\bin\Debug\net5.0\Ternary_operation.exe
+C:\data\Training\Training\bin\Debug\net5.0\Ternary_operation.deps.json
+C:\data\Training\Training\bin\Debug\net5.0\Ternary_operation.runtimeconfig.json
+C:\data\Training\Training\bin\Debug\net5.0\Ternary_operation.runtimeconfig.dev.json
+C:\data\Training\Training\bin\Debug\net5.0\Ternary_operation.dll
+C:\data\Training\Training\bin\Debug\net5.0\ref\Ternary_operation.dll
+C:\data\Training\Training\bin\Debug\net5.0\Ternary_operation.pdb
+C:\data\Training\Training\obj\Debug\net5.0\Ternary_operation.csprojAssemblyReference.cache
+C:\data\Training\Training\obj\Debug\net5.0\Ternary_operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\Training\Training\obj\Debug\net5.0\Ternary_operation.AssemblyInfoInputs.cache
+C:\data\Training\Training\obj\Debug\net5.0\Ternary_operation.AssemblyInfo.cs
+C:\data\Training\Training\obj\Debug\net5.0\Ternary_operation.csproj.CoreCompileInputs.cache
+C:\data\Training\Training\obj\Debug\net5.0\Ternary_operation.dll
+C:\data\Training\Training\obj\Debug\net5.0\ref\Ternary_operation.dll
+C:\data\Training\Training\obj\Debug\net5.0\Ternary_operation.pdb
+C:\data\Training\Training\obj\Debug\net5.0\Ternary_operation.genruntimeconfig.cache
