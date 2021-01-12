@@ -1,0 +1,13 @@
+C:\data\Training\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\data\Training\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\data\Training\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\data\Training\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\data\Training\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\data\Training\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\data\Training\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\data\Training\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\data\Training\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\data\Training\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\data\Training\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\data\Training\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\data\Training\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache

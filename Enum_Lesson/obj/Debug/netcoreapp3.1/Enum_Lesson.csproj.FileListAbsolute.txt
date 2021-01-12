@@ -1,0 +1,13 @@
+C:\data\Training\Enum_Lesson\bin\Debug\netcoreapp3.1\Enum_Lesson.exe
+C:\data\Training\Enum_Lesson\bin\Debug\netcoreapp3.1\Enum_Lesson.deps.json
+C:\data\Training\Enum_Lesson\bin\Debug\netcoreapp3.1\Enum_Lesson.runtimeconfig.json
+C:\data\Training\Enum_Lesson\bin\Debug\netcoreapp3.1\Enum_Lesson.runtimeconfig.dev.json
+C:\data\Training\Enum_Lesson\bin\Debug\netcoreapp3.1\Enum_Lesson.dll
+C:\data\Training\Enum_Lesson\bin\Debug\netcoreapp3.1\Enum_Lesson.pdb
+C:\data\Training\Enum_Lesson\obj\Debug\netcoreapp3.1\Enum_Lesson.csprojAssemblyReference.cache
+C:\data\Training\Enum_Lesson\obj\Debug\netcoreapp3.1\Enum_Lesson.AssemblyInfoInputs.cache
+C:\data\Training\Enum_Lesson\obj\Debug\netcoreapp3.1\Enum_Lesson.AssemblyInfo.cs
+C:\data\Training\Enum_Lesson\obj\Debug\netcoreapp3.1\Enum_Lesson.csproj.CoreCompileInputs.cache
+C:\data\Training\Enum_Lesson\obj\Debug\netcoreapp3.1\Enum_Lesson.dll
+C:\data\Training\Enum_Lesson\obj\Debug\netcoreapp3.1\Enum_Lesson.pdb
+C:\data\Training\Enum_Lesson\obj\Debug\netcoreapp3.1\Enum_Lesson.genruntimeconfig.cache

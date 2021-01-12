@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Add_an_element_to_the_array_Lesson/1.0.0": {
+        "runtime": {
+          "Add_an_element_to_the_array_Lesson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Add_an_element_to_the_array_Lesson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
