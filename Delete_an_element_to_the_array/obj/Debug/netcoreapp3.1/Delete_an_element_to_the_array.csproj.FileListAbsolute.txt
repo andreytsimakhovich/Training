@@ -1,0 +1,13 @@
+C:\data\Training\Delete_an_element_to_the_array\bin\Debug\netcoreapp3.1\Delete_an_element_to_the_array.exe
+C:\data\Training\Delete_an_element_to_the_array\bin\Debug\netcoreapp3.1\Delete_an_element_to_the_array.deps.json
+C:\data\Training\Delete_an_element_to_the_array\bin\Debug\netcoreapp3.1\Delete_an_element_to_the_array.runtimeconfig.json
+C:\data\Training\Delete_an_element_to_the_array\bin\Debug\netcoreapp3.1\Delete_an_element_to_the_array.runtimeconfig.dev.json
+C:\data\Training\Delete_an_element_to_the_array\bin\Debug\netcoreapp3.1\Delete_an_element_to_the_array.dll
+C:\data\Training\Delete_an_element_to_the_array\bin\Debug\netcoreapp3.1\Delete_an_element_to_the_array.pdb
+C:\data\Training\Delete_an_element_to_the_array\obj\Debug\netcoreapp3.1\Delete_an_element_to_the_array.csprojAssemblyReference.cache
+C:\data\Training\Delete_an_element_to_the_array\obj\Debug\netcoreapp3.1\Delete_an_element_to_the_array.AssemblyInfoInputs.cache
+C:\data\Training\Delete_an_element_to_the_array\obj\Debug\netcoreapp3.1\Delete_an_element_to_the_array.AssemblyInfo.cs
+C:\data\Training\Delete_an_element_to_the_array\obj\Debug\netcoreapp3.1\Delete_an_element_to_the_array.csproj.CoreCompileInputs.cache
+C:\data\Training\Delete_an_element_to_the_array\obj\Debug\netcoreapp3.1\Delete_an_element_to_the_array.dll
+C:\data\Training\Delete_an_element_to_the_array\obj\Debug\netcoreapp3.1\Delete_an_element_to_the_array.pdb
+C:\data\Training\Delete_an_element_to_the_array\obj\Debug\netcoreapp3.1\Delete_an_element_to_the_array.genruntimeconfig.cache

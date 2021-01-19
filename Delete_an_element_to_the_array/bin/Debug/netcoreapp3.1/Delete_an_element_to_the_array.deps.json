@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Delete_an_element_to_the_array/1.0.0": {
+        "runtime": {
+          "Delete_an_element_to_the_array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delete_an_element_to_the_array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
