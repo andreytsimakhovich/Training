@@ -78,20 +78,20 @@ namespace Cycles
 
             // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Найти сумму четных чисел в массиве<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-            //int[] myArray = {2, 10, 15, 17, 3, 21, 6, 81, 100, 120};
-            //int sum = 0;
+            int[] myArray = { 2, 10, 15, 17, 3, 21, 6, 81, 100, 120 };
+            int sum = 0;
 
-            //for (int i = 0; i < myArray.Length; i++)
-            //{
-            //    Console.WriteLine(myArray[i]);
+            for (int i = 0; i < myArray.Length; i++)
+            {
+                Console.WriteLine(myArray[i]);
 
-            //    if (myArray[i]%2 == 0)
-            //    {
-            //        sum += myArray[i];
-            //    }
-            //}
-            //Console.WriteLine("\nВывод суммы: "+sum);
-            //Console.ReadLine();
+                if (myArray[i] % 2 == 0)
+                {
+                    sum += myArray[i];
+                }
+            }
+            Console.WriteLine("\nВывод суммы: " + sum);
+            Console.ReadLine();
 
             //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Найти наименьшее число в массиве<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -112,21 +112,21 @@ namespace Cycles
 
             //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Как рабоать с массивами в C# на самом деле<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-            int [] myArray = {111,10,4,99,49,64,77,4,42,5};
+            //int [] myArray = {111,10,4,99,49,64,77,4,42,5};
 
-            // min max элемент массива
+            //// min max элемент массива
 
-            //int result = myArray.Max();
-            //int result = myArray.Min(); 
+            ////int result = myArray.Max();
+            ////int result = myArray.Min(); 
+            ////Console.WriteLine(result);
+
+            ////Console.WriteLine(myArray.Where(i => i % 2 == 0).Sum());     // сумма всех четных элементов массивов
+
+            //int [] result = Array.FindAll(myArray, i => i < 70);
+
             //Console.WriteLine(result);
 
-            //Console.WriteLine(myArray.Where(i => i % 2 == 0).Sum());     // сумма всех четных элементов массивов
-
-            int [] result = Array.FindAll(myArray, i => i < 70);
-
-            Console.WriteLine(result);
-
-            Console.ReadKey();
+            //Console.ReadKey();
 
         }
     }

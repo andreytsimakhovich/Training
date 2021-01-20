@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace _49_Lesson_Task1
 {
+    // Вывод массива
     class Program
     {
         static void PrintArray(int[] arr, int i = 0)

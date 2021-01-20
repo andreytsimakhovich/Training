@@ -1,0 +1,13 @@
+C:\data\Training\Cycles\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\data\Training\Cycles\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\data\Training\Cycles\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\data\Training\Cycles\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\data\Training\Cycles\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\data\Training\Cycles\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\data\Training\Cycles\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\data\Training\Cycles\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\data\Training\Cycles\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\data\Training\Cycles\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\data\Training\Cycles\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\data\Training\Cycles\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\data\Training\Cycles\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
