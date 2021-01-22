@@ -10,4 +10,3 @@ C:\data\Training\Params_Lesson\obj\Debug\netcoreapp3.1\Params_Lesson.csproj.Core
 C:\data\Training\Params_Lesson\obj\Debug\netcoreapp3.1\Params_Lesson.dll
 C:\data\Training\Params_Lesson\obj\Debug\netcoreapp3.1\Params_Lesson.pdb
 C:\data\Training\Params_Lesson\obj\Debug\netcoreapp3.1\Params_Lesson.genruntimeconfig.cache
-C:\data\Training\Params_Lesson\obj\Debug\netcoreapp3.1\Params_Lesson.csprojAssemblyReference.cache

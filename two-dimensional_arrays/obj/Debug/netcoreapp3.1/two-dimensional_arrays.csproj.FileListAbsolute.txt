@@ -11,3 +11,16 @@ D:\C#\Training\two-dimensional_arrays\bin\Debug\netcoreapp3.1\two-dimensional_ar
 D:\C#\Training\two-dimensional_arrays\obj\Debug\netcoreapp3.1\two-dimensional_arrays.dll
 D:\C#\Training\two-dimensional_arrays\obj\Debug\netcoreapp3.1\two-dimensional_arrays.pdb
 D:\C#\Training\two-dimensional_arrays\obj\Debug\netcoreapp3.1\two-dimensional_arrays.genruntimeconfig.cache
+C:\data\Training\two-dimensional_arrays\bin\Debug\netcoreapp3.1\Two-dimensional_arrays.exe
+C:\data\Training\two-dimensional_arrays\bin\Debug\netcoreapp3.1\Two-dimensional_arrays.deps.json
+C:\data\Training\two-dimensional_arrays\bin\Debug\netcoreapp3.1\Two-dimensional_arrays.runtimeconfig.json
+C:\data\Training\two-dimensional_arrays\bin\Debug\netcoreapp3.1\Two-dimensional_arrays.runtimeconfig.dev.json
+C:\data\Training\two-dimensional_arrays\bin\Debug\netcoreapp3.1\Two-dimensional_arrays.dll
+C:\data\Training\two-dimensional_arrays\bin\Debug\netcoreapp3.1\Two-dimensional_arrays.pdb
+C:\data\Training\two-dimensional_arrays\obj\Debug\netcoreapp3.1\Two-dimensional_arrays.csprojAssemblyReference.cache
+C:\data\Training\two-dimensional_arrays\obj\Debug\netcoreapp3.1\Two-dimensional_arrays.AssemblyInfoInputs.cache
+C:\data\Training\two-dimensional_arrays\obj\Debug\netcoreapp3.1\Two-dimensional_arrays.AssemblyInfo.cs
+C:\data\Training\two-dimensional_arrays\obj\Debug\netcoreapp3.1\Two-dimensional_arrays.csproj.CoreCompileInputs.cache
+C:\data\Training\two-dimensional_arrays\obj\Debug\netcoreapp3.1\Two-dimensional_arrays.dll
+C:\data\Training\two-dimensional_arrays\obj\Debug\netcoreapp3.1\Two-dimensional_arrays.pdb
+C:\data\Training\two-dimensional_arrays\obj\Debug\netcoreapp3.1\Two-dimensional_arrays.genruntimeconfig.cache

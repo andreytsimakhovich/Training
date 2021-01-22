@@ -4,7 +4,6 @@ C:\data\Training\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
 C:\data\Training\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
 C:\data\Training\Methods\bin\Debug\netcoreapp3.1\Methods.dll
 C:\data\Training\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
-C:\data\Training\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
 C:\data\Training\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
 C:\data\Training\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
 C:\data\Training\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache

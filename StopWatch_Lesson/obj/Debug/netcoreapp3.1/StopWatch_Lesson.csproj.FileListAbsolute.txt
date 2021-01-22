@@ -10,4 +10,3 @@ C:\data\Training\StopWatch_Lesson\obj\Debug\netcoreapp3.1\StopWatch_Lesson.cspro
 C:\data\Training\StopWatch_Lesson\obj\Debug\netcoreapp3.1\StopWatch_Lesson.dll
 C:\data\Training\StopWatch_Lesson\obj\Debug\netcoreapp3.1\StopWatch_Lesson.pdb
 C:\data\Training\StopWatch_Lesson\obj\Debug\netcoreapp3.1\StopWatch_Lesson.genruntimeconfig.cache
-C:\data\Training\StopWatch_Lesson\obj\Debug\netcoreapp3.1\StopWatch_Lesson.csprojAssemblyReference.cache

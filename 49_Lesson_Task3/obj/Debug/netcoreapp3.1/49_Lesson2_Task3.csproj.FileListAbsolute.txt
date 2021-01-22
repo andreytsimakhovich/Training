@@ -1,0 +1,12 @@
+C:\data\Training\49_Lesson_Task3\bin\Debug\netcoreapp3.1\49_Lesson2_Task3.exe
+C:\data\Training\49_Lesson_Task3\bin\Debug\netcoreapp3.1\49_Lesson2_Task3.deps.json
+C:\data\Training\49_Lesson_Task3\bin\Debug\netcoreapp3.1\49_Lesson2_Task3.runtimeconfig.json
+C:\data\Training\49_Lesson_Task3\bin\Debug\netcoreapp3.1\49_Lesson2_Task3.runtimeconfig.dev.json
+C:\data\Training\49_Lesson_Task3\bin\Debug\netcoreapp3.1\49_Lesson2_Task3.dll
+C:\data\Training\49_Lesson_Task3\bin\Debug\netcoreapp3.1\49_Lesson2_Task3.pdb
+C:\data\Training\49_Lesson_Task3\obj\Debug\netcoreapp3.1\49_Lesson2_Task3.AssemblyInfoInputs.cache
+C:\data\Training\49_Lesson_Task3\obj\Debug\netcoreapp3.1\49_Lesson2_Task3.AssemblyInfo.cs
+C:\data\Training\49_Lesson_Task3\obj\Debug\netcoreapp3.1\49_Lesson2_Task3.csproj.CoreCompileInputs.cache
+C:\data\Training\49_Lesson_Task3\obj\Debug\netcoreapp3.1\49_Lesson2_Task3.dll
+C:\data\Training\49_Lesson_Task3\obj\Debug\netcoreapp3.1\49_Lesson2_Task3.pdb
+C:\data\Training\49_Lesson_Task3\obj\Debug\netcoreapp3.1\49_Lesson2_Task3.genruntimeconfig.cache

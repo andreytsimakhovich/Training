@@ -4,7 +4,6 @@ C:\data\Training\Method_hw1\bin\Debug\netcoreapp3.1\Method_hw1.runtimeconfig.jso
 C:\data\Training\Method_hw1\bin\Debug\netcoreapp3.1\Method_hw1.runtimeconfig.dev.json
 C:\data\Training\Method_hw1\bin\Debug\netcoreapp3.1\Method_hw1.dll
 C:\data\Training\Method_hw1\bin\Debug\netcoreapp3.1\Method_hw1.pdb
-C:\data\Training\Method_hw1\obj\Debug\netcoreapp3.1\Method_hw1.csprojAssemblyReference.cache
 C:\data\Training\Method_hw1\obj\Debug\netcoreapp3.1\Method_hw1.AssemblyInfoInputs.cache
 C:\data\Training\Method_hw1\obj\Debug\netcoreapp3.1\Method_hw1.AssemblyInfo.cs
 C:\data\Training\Method_hw1\obj\Debug\netcoreapp3.1\Method_hw1.csproj.CoreCompileInputs.cache

@@ -1,4 +1,3 @@
-C:\data\Training\48_Lesson\obj\Debug\netcoreapp3.1\48_Lesson.csprojAssemblyReference.cache
 C:\data\Training\48_Lesson\obj\Debug\netcoreapp3.1\48_Lesson.AssemblyInfoInputs.cache
 C:\data\Training\48_Lesson\obj\Debug\netcoreapp3.1\48_Lesson.AssemblyInfo.cs
 C:\data\Training\48_Lesson\obj\Debug\netcoreapp3.1\48_Lesson.csproj.CoreCompileInputs.cache

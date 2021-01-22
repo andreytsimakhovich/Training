@@ -4,7 +4,6 @@ C:\data\Training\Ref_Lesson\bin\Debug\netcoreapp3.1\Resize_Lesson.runtimeconfig.
 C:\data\Training\Ref_Lesson\bin\Debug\netcoreapp3.1\Resize_Lesson.runtimeconfig.dev.json
 C:\data\Training\Ref_Lesson\bin\Debug\netcoreapp3.1\Resize_Lesson.dll
 C:\data\Training\Ref_Lesson\bin\Debug\netcoreapp3.1\Resize_Lesson.pdb
-C:\data\Training\Ref_Lesson\obj\Debug\netcoreapp3.1\Resize_Lesson.csprojAssemblyReference.cache
 C:\data\Training\Ref_Lesson\obj\Debug\netcoreapp3.1\Resize_Lesson.AssemblyInfoInputs.cache
 C:\data\Training\Ref_Lesson\obj\Debug\netcoreapp3.1\Resize_Lesson.AssemblyInfo.cs
 C:\data\Training\Ref_Lesson\obj\Debug\netcoreapp3.1\Resize_Lesson.csproj.CoreCompileInputs.cache

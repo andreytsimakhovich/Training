@@ -10,4 +10,3 @@ C:\data\Training\Method_hw2\obj\Debug\netcoreapp3.1\Method_hw2.csproj.CoreCompil
 C:\data\Training\Method_hw2\obj\Debug\netcoreapp3.1\Method_hw2.dll
 C:\data\Training\Method_hw2\obj\Debug\netcoreapp3.1\Method_hw2.pdb
 C:\data\Training\Method_hw2\obj\Debug\netcoreapp3.1\Method_hw2.genruntimeconfig.cache
-C:\data\Training\Method_hw2\obj\Debug\netcoreapp3.1\Method_hw2.csprojAssemblyReference.cache
