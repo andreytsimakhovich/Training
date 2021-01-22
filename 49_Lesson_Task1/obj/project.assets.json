@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\data\\Training\\49_Lesson_Task1\\49_Lesson_Task1.csproj",
-      "projectName": "49_Lesson_Task1",
-      "projectPath": "C:\\data\\Training\\49_Lesson_Task1\\49_Lesson_Task1.csproj",
+      "projectUniqueName": "C:\\data\\Training\\49_Lesson_Task1\\49_Lesson2_Task1.csproj",
+      "projectName": "49_Lesson2_Task1",
+      "projectPath": "C:\\data\\Training\\49_Lesson_Task1\\49_Lesson2_Task1.csproj",
       "packagesPath": "C:\\Users\\tsimakhovich\\.nuget\\packages\\",
       "outputPath": "C:\\data\\Training\\49_Lesson_Task1\\obj\\",
       "projectStyle": "PackageReference",
