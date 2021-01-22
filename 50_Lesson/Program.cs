@@ -3,6 +3,7 @@ using System.Text;
 
 namespace _50_Lesson
 {
+    // Преобразование и приведение примитивных типов в С#
     class Program
     {
         static void Foo(float value)
@@ -11,8 +12,10 @@ namespace _50_Lesson
         }
         static void Main(string[] args)
         {
-            int a = 5;
-            Foo(a);
+            double a = 5.3;
+            Foo((float)a);
+           
         }
     }
 }
+ 
