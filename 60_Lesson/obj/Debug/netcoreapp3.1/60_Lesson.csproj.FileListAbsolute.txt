@@ -1,0 +1,13 @@
+C:\data\Training\60_Lesson\bin\Debug\netcoreapp3.1\60_Lesson.exe
+C:\data\Training\60_Lesson\bin\Debug\netcoreapp3.1\60_Lesson.deps.json
+C:\data\Training\60_Lesson\bin\Debug\netcoreapp3.1\60_Lesson.runtimeconfig.json
+C:\data\Training\60_Lesson\bin\Debug\netcoreapp3.1\60_Lesson.runtimeconfig.dev.json
+C:\data\Training\60_Lesson\bin\Debug\netcoreapp3.1\60_Lesson.dll
+C:\data\Training\60_Lesson\bin\Debug\netcoreapp3.1\60_Lesson.pdb
+C:\data\Training\60_Lesson\obj\Debug\netcoreapp3.1\60_Lesson.AssemblyInfoInputs.cache
+C:\data\Training\60_Lesson\obj\Debug\netcoreapp3.1\60_Lesson.AssemblyInfo.cs
+C:\data\Training\60_Lesson\obj\Debug\netcoreapp3.1\60_Lesson.csproj.CoreCompileInputs.cache
+C:\data\Training\60_Lesson\obj\Debug\netcoreapp3.1\60_Lesson.dll
+C:\data\Training\60_Lesson\obj\Debug\netcoreapp3.1\60_Lesson.pdb
+C:\data\Training\60_Lesson\obj\Debug\netcoreapp3.1\60_Lesson.genruntimeconfig.cache
+C:\data\Training\60_Lesson\obj\Debug\netcoreapp3.1\60_Lesson.csprojAssemblyReference.cache
